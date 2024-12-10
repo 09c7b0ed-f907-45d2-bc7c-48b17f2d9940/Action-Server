@@ -1,2 +1,1 @@
-action_endpoint:
-  url: ${RASA_ENDPOINT_URL}
+tracing:
